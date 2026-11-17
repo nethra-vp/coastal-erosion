@@ -24,7 +24,7 @@ It compares model metrics, plots confusion matrices and ROC curves, and evaluate
 | XGBoost | A gradient-boosted tree classifier with class-imbalance weighting. |
 | 4-Qubit Data Re-uploading Classifier | Re-encodes PCA-reduced features through a trainable four-qubit circuit. |
 | Standard Variational Quantum Classifier (VQC) | Encodes PCA-reduced inputs once, then applies trainable entangling layers. |
-| Angle-Embedded VQC (AE-VQC / Old Quantum Model) | An earlier angle-embedded variational circuit retained for comparison. |
+| Angle-Embedded VQC (AE-VQC) | An earlier angle-embedded variational circuit retained for comparison. |
 | 6-Qubit Data Re-uploading Classifier | A six-qubit version of the data re-uploading circuit. |
 | Hybrid Quantum-Classical Neural Network (Hybrid QML) | Combines PyTorch feature layers and classifier layers with a PennyLane quantum layer. |
 
